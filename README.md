@@ -1,4 +1,4 @@
-hexo-theme-sakura [中文文档](https://github.com/Zevs/hexo-theme-sakura/blob/master/README-zh_cn.md)
+hexo-theme-sakura [中文文档](https://github.com/Zevs6/hexo-theme-sakura/blob/master/README-zh_cn.md)
 
 
 
